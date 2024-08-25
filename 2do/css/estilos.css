@@ -1,0 +1,113 @@
+section {
+    display: flex;
+    width: 600px;
+    height: 430px;    
+}
+img {
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: 9;
+    transition: .4s ease;
+}
+img:hover {
+    cursor: crosshair;
+    width: 200px;
+    opacity: 1;
+    filter: contrast(150%);
+}
+body {
+    margin: 0;
+    background-color: rgb(25, 4, 39);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+}
+.a{
+    /* background-image: url(GAMORA.jpg); */
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: 9;
+    transition: .4s ease;
+}
+.a:hover{
+    cursor: crosshair;
+    width: 200px;
+    opacity: 1;
+    filter: contrast(150%);
+}
+.b{
+    background-image: url(GAMORA.jpg);
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: 9;
+    transition: .4s ease;
+}
+.b:hover{
+    cursor: crosshair;
+    width: 200px;
+    opacity: 1;
+    filter: contrast(150%);
+}
+.c{
+    background-image: url(GAMORA.jpg);
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: 9;
+    transition: .4s ease;
+}
+.c:hover{
+    cursor: crosshair;
+    width: 200px;
+    opacity: 1;
+    filter: contrast(150%);
+}
+.d{
+    background-image: url(GAMORA.jpg);
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: 9;
+    transition: .4s ease;
+}
+.d:hover{
+    cursor: crosshair;
+    width: 200px;
+    opacity: 1;
+    filter: contrast(150%);
+}
+.e{
+    background-image: url(GAMORA.jpg);
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: 9;
+    transition: .4s ease;
+}
+.e:hover{
+    cursor: crosshair;
+    width: 200px;
+    opacity: 1;
+    filter: contrast(150%);
+}
